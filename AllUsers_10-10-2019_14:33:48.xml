@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlPojo>
+    <list>
+        <address>Afroditis 4</address>
+        <email>zap_headshot@hotmail.com</email>
+        <firstname>nikolaos</firstname>
+        <fullname>nikolaos theod</fullname>
+        <lastname>theod</lastname>
+        <phonenumber>6981825873</phonenumber>
+        <securitynumber>1234554321</securitynumber>
+        <username>op_fx</username>
+    </list>
+    <list>
+        <address>Thewnos 2</address>
+        <email>soupias@hot.com</email>
+        <firstname>Andreas</firstname>
+        <fullname>Andreas Manousoudakis</fullname>
+        <lastname>Manousoudakis</lastname>
+        <phonenumber>6981424242</phonenumber>
+        <securitynumber>1234432155</securitynumber>
+        <username>soupias</username>
+    </list>
+</xmlPojo>

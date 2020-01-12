@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlPojo>
+    <list>
+        <curr_pos>di</curr_pos>
+        <firstname>jack</firstname>
+        <lastname>jack</lastname>
+        <username>jones</username>
+    </list>
+    <list>
+        <curr_pos>done</curr_pos>
+        <firstname>john</firstname>
+        <lastname>nikol</lastname>
+        <username>james</username>
+    </list>
+    <list>
+        <curr_inst>popo</curr_inst>
+        <curr_pos>prior</curr_pos>
+        <firstname>lolol</firstname>
+        <lastname>eleor</lastname>
+        <photo_url>../../assets/anonymous.png</photo_url>
+        <username>op_fx_pm</username>
+    </list>
+    <list>
+        <curr_inst>gaf</curr_inst>
+        <curr_pos>sdi</curr_pos>
+        <firstname>choci</firstname>
+        <lastname>taci</lastname>
+        <photo_url>../../assets/anonymous.png</photo_url>
+        <username>zazapa</username>
+    </list>
+    <list>
+        <curr_inst>boy</curr_inst>
+        <curr_pos>sad</curr_pos>
+        <firstname>eleo</firstname>
+        <lastname>sour</lastname>
+        <photo_url>../../assets/anonymous.png</photo_url>
+        <username>nikolaos</username>
+    </list>
+    <list>
+        <curr_inst>tei</curr_inst>
+        <curr_pos>director</curr_pos>
+        <firstname>andreas</firstname>
+        <lastname>manousoudakis</lastname>
+        <photo_url>../../assets/anonymous.png</photo_url>
+        <username>soupias</username>
+    </list>
+</xmlPojo>
